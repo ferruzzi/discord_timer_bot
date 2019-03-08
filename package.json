@@ -1,0 +1,13 @@
+{
+  "name": "Kingpin",
+  "version": "0.0.1",
+  "description": "Virtual Consul",
+  "main": "bot.js",
+  "author": "ZopharPtay@gmail.com",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-opus": "^0.3.1",
+    "winston": "^3.2.1"
+  }
+}
