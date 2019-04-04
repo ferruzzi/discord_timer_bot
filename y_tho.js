@@ -17,6 +17,6 @@ let jobs = 'mining, cook, repair';
 
 for (let role in roles) {
   if (jobs.includes(role.substring(0, 3))) {
-    role.push(member.user.username);
+    roles.role.push(member.user.username);
    }
 }
